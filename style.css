@@ -20,12 +20,59 @@ body {
 	height:15%;
 }
 .column1{
-	display:flex;
+	display:block;
 	background-color:#2d3d56;
 	width:28%;
 	height:100%;
 }
-
+.box1{
+	display:block;
+	background-color:#2d3d56;
+	width:28%;
+	height:33%;
+}
+.box2{
+	display:block;
+	background-color:#4d78bc;
+	width:100%;
+	height:33%;
+}
+.box3{
+	display:block;
+	background-color:#a0a7b2;
+	width:100%;
+	height:33%;
+}
+.box4{
+	display:block;
+	background-color:#dda844;
+	width:100%;
+	height:33%;
+}
+.box5{
+	display:block;
+	background-color:#4d78bc;
+	width:100%;
+	height:33%;
+}
+.box6{
+	display:block;
+	background-color:#dd7744;
+	width:100%;
+	height:33%;
+}
+.column6{
+	display:block;
+	background-color:#f47a42;
+	width:28%;
+	height:50%;
+}
+.column9{
+	display:block;
+	background-color:#42f4d1;
+	width:25%;
+	height:50%;
+}
 .column{
 	display:block;	
 	width:50%;
@@ -36,7 +83,7 @@ body {
 	display:block;
 	background-color:#7c6f51;
 	width:100%;
-	height:25%;
+	height:28%;
 }
 .column3{
 	display:block;
@@ -48,7 +95,7 @@ body {
 	display:block;
 	background-color:#19c642;
 	width:100%;
-	height:25%;
+	height:23%;
 }
 .row2{
 	display:block;
@@ -57,19 +104,30 @@ body {
 	height:95%;
 }
 .column4{
-	display:flex;
+	display:block;
 	background-color:#195cc6;
 	width:28%;
 	height:100%;
 }
-
+.column8{
+	display:block;
+	background-color:#9cb72f;
+	width:28%;
+	height:50%;
+}
+.column10{
+	display:block;
+	background-color:#2f97b7;
+	width:28%;
+	height:50%;
+}
 .restrict-img-size{
-	max-height: 100%;
-	max-width: 100%;
+	max-height: 25%;
+	max-width: 39%;
 }
 
 .centering-content {
 	align-items: center;
 	justify-content: center;
-	display: flex;
+	display:block;
 }
