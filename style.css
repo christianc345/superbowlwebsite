@@ -63,10 +63,23 @@ body {
 }
 .dy{
 	display:flex;
+	background-color:#dd7744;
 	width: calc(100%/3);
 	height:100%;
 }
 
+.dy2{
+	display:flex;
+	background-color:#825e71;
+	width: calc(100%/3);
+	height:100%;
+}
+.dy3{
+	display:flex;
+	background-color:#a9b277;
+	width: calc(100%/3);
+	height:100%;
+}
 .column6{
 	display:block;
 	background-color:#f47a42;
