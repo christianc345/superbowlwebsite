@@ -62,23 +62,23 @@ body {
 	height:33%;
 }
 .dy{
-	display:block;
-	background-color:#dd7744;
-	width: calc(100/3);
-	height:33%;
+	display:flex;
+	background-color:#10bc8c;
+	width: 36%;
+	height:100%;
 }
 
 .dy2{
-	display:block;
+	display:flex;
 	background-color:#825e71;
-	width: calc(100/3);
-	height:33%;
+	width: 35%;
+	height:100%;
 }
 .dy3{
-	display:block;
+	display:flex;
 	background-color:#a9b277;
-	width: calc(100/3);
-	height:33%;
+	width: 43%;
+	height:100%;
 }
 .column6{
 	display:block;
@@ -111,7 +111,7 @@ body {
 	height:50%;
 }
 .column5{
-	display:block;
+	display:flex;
 	background-color:#19c642;
 	width:100%;
 	height:23%;
@@ -140,6 +140,7 @@ body {
 	width:28%;
 	height:50%;
 }
+
 .restrict-img-size{
 	max-height: 25%;
 	max-width: 39%;
