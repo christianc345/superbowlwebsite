@@ -64,20 +64,20 @@ body {
 .dy{
 	display:block;
 	background-color:#dd7744;
-	width: calc(100%/3);
+	width: calc(100/3);
 	height:33%;
 }
 
 .dy2{
 	display:block;
 	background-color:#825e71;
-	width: calc(100%/3);
+	width: calc(100/3);
 	height:33%;
 }
 .dy3{
 	display:block;
 	background-color:#a9b277;
-	width: calc(100%/3);
+	width: calc(100/3);
 	height:33%;
 }
 .column6{
