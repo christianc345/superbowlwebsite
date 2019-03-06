@@ -61,6 +61,25 @@ body {
 	width:100%;
 	height:33%;
 }
+.dyl{
+	display:flex;
+	background-color:#4d78bc;
+	width:100%;
+	height:33%;
+}
+.dyl2{
+	display:flex;
+	background-color:#4d78bc;
+	width:100%;
+	height:33%;
+}
+
+.dyl3{
+	display:flex;
+	background-color:#4d78bc;
+	width:100%;
+	height:33%;
+}
 .column6{
 	display:block;
 	background-color:#f47a42;
