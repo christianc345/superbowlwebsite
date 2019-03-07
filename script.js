@@ -1,23 +1,27 @@
-ram(){
-	document.getElementById("q1").src("rams.jpg");
+function ram(){
+	document.getElementById("c1").src = "images/rams.jpg";
 }
 
-charger(){
-	document.getElementById("q1").src("chargers.jpg");
+
+function charger(){
+	document.getElementById("c2").src = "images/chargers.jpg";
 }
 
-raiders(){
-	document.getElementById("q1").src("raider.jpg");
+
+function raiders(){
+	document.getElementById("c2").src = "images/raider.jpg";
 }
 
-miamid(){
-	document.getElementById("q1").src("miami.png");
+
+function miamid(){
+	document.getElementById("c2").src = "images/miami.png";
 }
 
-steeler(){
-	document.getElementById("q1").src("steelers.jpg");
+
+function steeler(){
+	document.getElementById("c1").src = "images/steelers.jpg";
 }
 
-vikings(){
-	document.getElementById("q1").src("vikings.jpg");
+function viking(){
+	document.getElementById("c1").src = "images/vikings.jpg";
 }
