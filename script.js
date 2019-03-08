@@ -1,5 +1,5 @@
 function ram(){
-	document.getElementById("c1").src = "images/rams.jpg";
+	document.getElementById("c1").src = "images/helmet.png";
 }
 
 
@@ -23,5 +23,6 @@ function steeler(){
 }
 
 function viking(){
-	document.getElementById("c1").src = "images/vikings.jpg";
+	document.getElementById("c1").src = "images/purple.png";
 }
+
