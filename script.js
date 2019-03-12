@@ -27,7 +27,7 @@ function viking(){
 
 function check(){
 	if(document.getElementById("c1").src.match("images/purple.png") && document.getElementById("c2").src.match("images/raider.jpg")){
-		window.alert("SOLVED THE PUZZLE!!!");
+		document.getElementById("check").src = "images/bosskey.gif";
 	} else{
 		window.alert("TRY AGAIN");
 	}
@@ -55,4 +55,3 @@ window.onload = function () {
         display = document.querySelector('#time');
     startTimer(fiveMinutes, display);
 };
-
