@@ -151,6 +151,11 @@ body {
 	max-width: 39%;
 }
 
+.answer-size {
+	max-height: 75%;
+	max-width: 75%;
+}
+
 .centering-content {
 	align-items: center;
 	justify-content: center;
