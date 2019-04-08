@@ -145,10 +145,8 @@ body {
 	width:28%;
 	height:50%;
 }
-
-.restrict-img-size{
-	max-height: 30%;
-	max-width: 39%;
+.same-img-size{
+	height:50;
 }
 
 .answer-size {
